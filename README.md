@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- ✉️ Reach me ![bringolfj@gmail.com](mailto:bringolfj@gmail.com)
-- 🤝 Connect ![www.linkedin.com/in/jeffreybringolf](https://www.linkedin.com/in/jeffreybringolf)
-- 💼 Check out my projects and experiences ![jeffbrin.github.io](htps://jeffbrin.github.io)
+- ✉️ Reach me [bringolfj@gmail.com](mailto:bringolfj@gmail.com)
+- 🤝 Connect [www.linkedin.com/in/jeffreybringolf](https://www.linkedin.com/in/jeffreybringolf)
+- 💼 Check out my projects and experiences [jeffbrin.github.io](htps://jeffbrin.github.io)
 
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffbrin)](https://github.com/anuraghazra/github-readme-stats)
 
