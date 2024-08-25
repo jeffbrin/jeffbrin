@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](IMG_5262.HEIC)
 
 - ✉️ Reach me [bringolfj@gmail.com](mailto:bringolfj@gmail.com)
