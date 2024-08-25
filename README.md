@@ -3,7 +3,7 @@
 - ✉️ Reach me ![bringolfj@gmail.com](mailto:bringolfj@gmail.com)
 - 🤝 Connect ![www.linkedin.com/in/jeffreybringolf](www.linkedin.com/in/jeffreybringolf)
 - 💼 Check out my projects and experiences ![jeffbrin.github.io](jeffbrin.github.io)
-- [link](www.youtube.com)
+- [link](https://www.youtube.com)
 
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffbrin)](https://github.com/anuraghazra/github-readme-stats)
 
