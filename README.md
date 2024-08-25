@@ -1,4 +1,4 @@
-![](IMG_5262.HEIC)
+![](judging.jpg)
 
 - ✉️ Reach me [bringolfj@gmail.com](mailto:bringolfj@gmail.com)
 - 🤝 Connect [www.linkedin.com/in/jeffreybringolf](https://www.linkedin.com/in/jeffreybringolf)
