@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?jeffbrin)
+![](https://komarev.com/ghpvc/?username=jeffbrin)
