@@ -2,6 +2,10 @@
 
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffbrin)](https://github.com/anuraghazra/github-readme-stats)
 
+✉️ Reach me [bringolfj@gmail.com](bringolfj@gmail.com)
+🤝 Connect [www.linkedin.com/in/jeffreybringolf](www.linkedin.com/in/jeffreybringolf)
+💼 Check out my projects and experiences [jeffbrin.github.io](jeffbrin.github.io)
+
 <!--
 **jeffbrin/jeffbrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
