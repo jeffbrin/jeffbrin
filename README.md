@@ -10,7 +10,7 @@ My passion for technology stems from its ability to improve people's lives. Yes,
 ## 🔗 Links
 - ✉️ Reach me [bringolfj@gmail.com](mailto:bringolfj@gmail.com)
 - 🤝 Connect [www.linkedin.com/in/jeffreybringolf](https://www.linkedin.com/in/jeffreybringolf)
-- 💼 Check out my projects and experiences [jeffbrin.github.io](jeffbrin.github.io)
+- 💼 Check out my projects and experiences [jeffbrin.github.io](http://www.jeffbrin.github.io)
 
 > Most of my work is done on private repos or at work, so don't expect much here 😜
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffbrin)](https://github.com/anuraghazra/github-readme-stats)
