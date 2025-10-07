@@ -1,8 +1,5 @@
 ![](judging.jpg)
 
-## 📌 Professional Stuff
-- 🧑‍💼 Working as software development intern at General Electric, working on cool stuff like power grid simulation software and the architecture used to run it!
-
 ## 🏎️ Drive
 My passion for technology stems from its ability to improve people's lives. Yes, advancement is certainly cool for advancement's sake, but we've lost the plot once we stop using it to help eachother and ourselves. I adore cutting edge technology which shows huge promise, and am absolutely obsessed with Quantum Computing's potential to reshape many aspects of our lives.
 
